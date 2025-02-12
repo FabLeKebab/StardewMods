@@ -1,0 +1,11 @@
+{
+    "config.MaxStackingNumber.name": "Nombre maximal d'empilement",
+    "config.MaxStackingNumber.tooltip": "Le nombre maximal d'empilement, la valeur par défaut est 999",
+    "config.DefaultCraftingAmount.name": "Quantité de fabrication/cuisson par défaut",
+    "config.DefaultCraftingAmount.tooltip": "La quantité par défaut lorsque vous faites Shift+Clic droit dans le menu de cuisson/fabrication",
+    "config.DefaultShopAmount.name": "Quantité par défaut en boutique",
+    "config.DefaultShopAmount.tooltip": "La quantité par défaut lorsque vous faites Shift+Clic droit dans un menu de boutique",
+    "config.EnableStackSplitRedux.name": "Activer Split Redux",
+    "config.EnableStackSplitRedux.tooltip": "Active les fonctionnalités de Split Redux. Décochez cette case si vous rencontrez un problème",
+    "ui.stacksplitmenu.title": "Sélectionner une quantité"
+}
